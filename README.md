@@ -30,7 +30,7 @@ COMMIT;
 ```
 
 4. Edite `core/Database.php` com seu usuário, senha e serviço Oracle
-5. Acesse `http://localhost/php_mvc_oracle/public`
+5. Acesse `http://localhost/MVCphp/public`
 
 ## 📁 Estrutura
 
