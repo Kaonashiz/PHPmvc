@@ -35,7 +35,7 @@ COMMIT;
 ## 📁 Estrutura
 
 ```
-php_mvc_oracle/
+MVCphp/
 ├── app/
 │   ├── Controllers/
 │   ├── Models/
