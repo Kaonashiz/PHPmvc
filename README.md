@@ -45,6 +45,3 @@ php_mvc_oracle/
 └── README.md
 ```
 
-## 📄 Licença
-
-MIT
